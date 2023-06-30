@@ -1,0 +1,11 @@
+{
+  "type": "lifeessencemod:life_essence_infusing",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "output": {
+    "item": "lifeessencemod:lifeessenceingot"
+  }
+}
